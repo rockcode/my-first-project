@@ -1,2 +1,1 @@
-# my-first-project
-create my-first-project to learn how to create a new repository
+# About my first project on GitHub
