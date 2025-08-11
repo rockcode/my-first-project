@@ -1,5 +1,5 @@
 # About my first project on GitHub
-#I planing to develop a hiking APP that includes flowing features:
+# I planing to develop a hiking APP that includes flowing features:
 
 1. Discover
 Four scenarios need to be fulfilled : Discover new Trails and learn more about it,Find an activity to join in and Start a activity for others to enroll .
